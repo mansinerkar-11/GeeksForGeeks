@@ -1,3 +1,3 @@
 # GeeksForGeeks
-Practice program solution
-here u can find minimum geeksforgeeks program solution
+Practice program solutions------
+Here you can find minimum geeksforgeeks program solution
