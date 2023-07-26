@@ -3,7 +3,6 @@
 #include<algorithm>
 // #include<numeric>
 using namespace std;
-
 // } Driver Code Ends
 class Solution{
 	
@@ -31,7 +30,6 @@ class Solution{
 };
 
 //{ Driver Code Starts.
-
 int main() 
 {
     {
@@ -44,18 +42,11 @@ int main()
 	        cin >> a[i];
 	        // um[a[i]]++;
 	    }
-
-
-       
-
         Solution ob;
         ob.leftRotate(a,k,n);
-        
         for (int i = 0; i < n; i++) 
         	cout << a[i] << " "; 
-
 	    cout << "\n";
-	     
     }
     return 0;
 }

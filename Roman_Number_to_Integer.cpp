@@ -41,12 +41,11 @@ class Solution {
 
 //{ Driver Code Starts.
 
-int main() {
-    
+int main() {{
         string s;
         cin >> s;
         Solution ob;
         cout << ob.romanToDecimal(s) << endl;
-    
+    }
 }
 // } Driver Code Ends
